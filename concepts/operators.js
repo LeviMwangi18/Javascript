@@ -112,4 +112,22 @@ console.log(m !== n) // reverse
 console.log(m === n); //strict
 console.log(m !== n); // reverse
 
+let k = '10'
+let c = 10
+
+console.log(k==c);
+console.log(k === c);
+console.log(k !== c);
+
+// logical operators
+// 1. AND (&&)
+// Purpose: Returns true if both conditions or expressions are true.
+// Usage: This operator is often used when both conditions need to be satisfied
+// 2. OR (||)
+// Purpose: Returns true if at least one of the conditions or expressions is true.
+// Usage: This operator is used when only one of the conditions needs to be satisfied.
+// 3. NOT (!)
+// Purpose: Reverses the Boolean value of the condition. If the condition is true, it becomes false; if it is false, it becomes true.
+// Usage: This operator is used to negate a condition.
+
 
