@@ -101,9 +101,15 @@ console.log(a)
 let m = 10;
 let n  = 20;
 
-console.log(m > n);
-console.log(m < n);
-console.log(m <= n);
-console.log(m >= n); 
+console.log(m < n); //less than
+console.log(m > n); // greater than
+console.log(m <= n); //less or equal to
+console.log(m >= n); // greater or equal to
+
+console.log(m == n); //equal
+console.log(m !== n) // reverse
+
+console.log(m === n); //strict
+console.log(m !== n); // reverse
 
 
